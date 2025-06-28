@@ -3,7 +3,7 @@
     "components": [
       {
         "type": "page-title",
-        "label": "Payment Method"
+        "label": "Payment Methods"
       },
       {
         "type": "checkbox-list-panel",
