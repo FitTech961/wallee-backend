@@ -40,7 +40,7 @@
           "imageUrl": "https://app-wallee.com/resource/web/image/payment/card-brand/mastercard.svg"
         }, {
           "value": "10007",
-          "title": "QR-Invoice Payment Method with PostFinance (disabled)",
+          "title": "QR-Invoice Payments Method with PostFinance (disabled)",
           "subtitle": "QR-Invoice Processor with PostFinance (disabled)",
           "imageUrl": "https://app-wallee.com/resource/web/image/payment/method/invoice.svg",
           "disabled": true
